@@ -1,4 +1,4 @@
-package com.gatling.tests
+package test.scala.com.gatling.tests
 
 import io.gatling.core.scenario.Simulation
 import io.gatling.core.Predef._
