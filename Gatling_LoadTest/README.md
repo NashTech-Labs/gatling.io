@@ -1,11 +1,11 @@
-# Introduction to Gatling & Gatling Script
+# How to perform Load Test in Gatling
 This template consist of Introduction to gatling & basic gatling script with scala. Gatling is one of the performance 
 testing tools that we can use in the load generation if development is focus on http support. Gatling is an open-source 
-load and performance-testing framework based on Scala, Akka and Netty.
+load and performance-testing framework based on Scala, Akka and Netty.In this template we will see a simple load simulation.
 
 ## Steps for execution:-
 1.Clone the repository:-  
-`https://github.com/knoldus/gatling.io/tree/GatlingScript`
+
 
 2.To run the tests:- 
 `mvn gatling:test`
@@ -49,4 +49,3 @@ load and performance-testing framework based on Scala, Akka and Netty.
 ```
 
 For better understanding, please refer to the blog:- 
-https://blog.knoldus.com/a-quick-overview-of-gatling-basic-gatling-script/
